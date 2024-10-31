@@ -1,0 +1,2 @@
+Tomate;100
+Lechuga;50
